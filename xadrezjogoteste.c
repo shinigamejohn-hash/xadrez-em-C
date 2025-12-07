@@ -10,8 +10,6 @@ int dentroDoTabuleiro(int linha, int coluna) {
 
 
 
-
-
 //                           TORRE
 
 void moverTorre(int linha, int coluna) {
